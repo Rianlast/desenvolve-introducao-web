@@ -1,0 +1,28 @@
+a {
+    color: red; /* Cor padrão */
+  }
+  
+  a:hover {
+    color: lightyellow; /* Cor quando o mouse está sobre o link */
+  }
+  
+  p {
+    font-family: Arial; /* Fonte para todos os parágrafos */
+  }
+  
+  h1 + p {
+    font-weight: bold; /* Parágrafos após h1 em negrito */
+  }
+  
+  .destaque {
+    font-family: Arial; /* Fonte Arial por padrão */
+  }
+  
+  .destaque p {
+    font-weight: bold; /* Negrito se aplicado a parágrafos */
+  }
+  
+  .destaque strong {
+    color: red; /* Vermelho se aplicado a <strong> */
+  }
+  
