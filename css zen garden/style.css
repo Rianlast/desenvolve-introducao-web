@@ -1,0 +1,32 @@
+/* Color Theme Swatches in Hex */
+/*.UI/UX-1-hex { color: #0339A6; }
+.princpal { color: #1755A6; }
+.UI/UX-3-hex { color: #6A9AD9; }
+.destaque { color: #91B7D9; }
+.background { color: #D9985F; }
+*/
+
+
+html {
+     background-color: #D9985F;
+     color:#1755A6;
+      
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+    }
+
+p{
+    text-indent: 1em;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+h1{font-size: 1.8rem;}
+h2{font-size: 1.4rem;}
+h3{font-size: 1.2rem;}
+
+.summary {text-align: right;}
+.main p {line-height: 1.5;}
+abbr {font-variant: small-caps;}
